@@ -12,13 +12,13 @@ layout: default
 
 - B2W
 - Cnova
-
+- Zattini
 
 ## Instalação
 
 Usando [Composer](http://getcomposer.com):
 
-    composer require gpupo/markethub-bundle:~1.0
+    composer require gpupo/markethub-bundle:~1.3
 
 Registre o bundle no Kernel:
 
@@ -65,11 +65,6 @@ markethub:
         api_token: %markethub_submarino_api_token%
         api_version: 'api'
 ```
-
-## Market places disponíveis:
-
-- submarino
-- cnova
 
 ## Serviços disponíveis:
 
