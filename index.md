@@ -8,7 +8,7 @@ layout: default
 
 # MarkethubBundle
 
-Integração de SDKs para Marketplaces com Symfony2
+Integração de SDKs para Marketplaces com aplicações Symfony
 
 ## Marketplaces disponíveis
 
@@ -19,7 +19,8 @@ Integração de SDKs para Marketplaces com Symfony2
 
 ## Requisitos
 
-* PHP >= *5.4*
+* PHP >= *5.6*
+* [Symfony](http://symfony.com/) >= *2.8*
 * [curl extension](http://php.net/manual/en/intro.curl.php)
 
 ## Licença
