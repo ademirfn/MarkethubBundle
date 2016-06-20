@@ -99,8 +99,11 @@ markethub:
 
 Uso:
 
+```php
+<?php
+///...
     $this->get('markethub.%nome_marketplace%.factory')->createProduct($data);
-
+```
 
 ## Exemplo de uso: B2W Marketplace
 
