@@ -6,13 +6,27 @@ layout: default
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f/small.png)](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f)
 
 
-# MarkethubBundle - Integração de SDKs para Marketplaces com Symfony2
+# MarkethubBundle
 
-## Market places disponíveis:
+Integração de SDKs para Marketplaces com Symfony2
+
+## Marketplaces disponíveis
 
 - B2W
 - Cnova
 - Zattini
+
+
+## Requisitos
+
+* PHP >= *5.4*
+* [curl extension](http://php.net/manual/en/intro.curl.php)
+
+## Licença
+
+[MIT](https://github.com/gpupo/common-sdk/blob/master/LICENSE) © [Gilmar Pupo](http://www.g1mr.com/)
+
+---
 
 ## Instalação
 
