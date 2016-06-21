@@ -29,7 +29,7 @@ Este componente está sob a [licença MIT](https://github.com/gpupo/common-sdk/b
 
 ## Agradecimentos
 
-* A todos os que [contribuiram com patchs](https://github.com/gpupo/MarkethubBundle/contributors) ou [fizeram sugestões importantes](https://github.com/gpupo/MarkethubBundle/issues)
+* A todos os que [contribuiram com patchs](https://github.com/gpupo/MarkethubBundle/contributors) ou [fizeram sugestões importantes](https://github.com/gpupo/MarkethubBundle/issues) e a todos os desenvolvedores que criaram as [bibliotecas utilizadas neste componente](https://github.com/gpupo/MarkethubBundle/blob/master/Resources/doc/libraries-list.txt)
 
 
  _- [Gilmar Pupo](http://www.g1mr.com/)_
@@ -159,5 +159,3 @@ $this->get('markethub.submarino.product.manager')->save($product);
     cd MarkethubBundle;
 
     ant;
-
-    
