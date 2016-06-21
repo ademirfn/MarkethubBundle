@@ -29,7 +29,9 @@ Este componente está sob a [licença MIT](https://github.com/gpupo/common-sdk/b
 
 ## Agradecimentos
 
-* A todos os que [contribuiram com patchs](https://github.com/gpupo/MarkethubBundle/contributors) ou [fizeram sugestões importantes](https://github.com/gpupo/MarkethubBundle/issues) e a todos os desenvolvedores que criaram as [bibliotecas utilizadas neste componente](https://github.com/gpupo/MarkethubBundle/blob/master/Resources/doc/libraries-list.txt)
+* A todos os que [contribuiram com patchs](https://github.com/gpupo/MarkethubBundle/contributors)
+* Aos que [fizeram sugestões importantes](https://github.com/gpupo/MarkethubBundle/issues)
+* A todos os desenvolvedores que criaram as [bibliotecas utilizadas neste componente](https://github.com/gpupo/MarkethubBundle/blob/master/Resources/doc/libraries-list.md)
 
 
  _- [Gilmar Pupo](http://www.g1mr.com/)_
@@ -88,7 +90,7 @@ markethub:
         api_version: 'api'
 ```
 
-## Serviços disponíveis:
+## Serviços disponíveis
 
 (considere ``%nome_marketplace%`` como valor a ser preenchido)
 
@@ -98,7 +100,7 @@ markethub:
 - markethub.%nome_marketplace%.product.sku.manager
 - markethub.%nome_marketplace%.order.manager
 
-## Contrutores disponíveis:
+## Contrutores disponíveis
 
 - createProduct
 - createSku
