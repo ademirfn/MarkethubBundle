@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-[![Build Status](https://secure.travis-ci.org/gpupo/MarkethubBundle.png?branch=master)](http://travis-ci.org/gpupo/MarkethubBundle)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gpupo/MarkethubBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gpupo/MarkethubBundle/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f/small.png)](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f)
-
-
 # MarkethubBundle
 
 Integração de SDKs para Marketplaces com aplicações Symfony
@@ -16,7 +11,6 @@ Integração de SDKs para Marketplaces com aplicações Symfony
 - Cnova
 - Zattini
 
-
 ## Requisitos
 
 * PHP >= *5.6*
@@ -25,7 +19,20 @@ Integração de SDKs para Marketplaces com aplicações Symfony
 
 ## Licença
 
-[MIT](https://github.com/gpupo/common-sdk/blob/master/LICENSE) © [Gilmar Pupo](http://www.g1mr.com/)
+Este componente está sob a [licença MIT](https://github.com/gpupo/common-sdk/blob/master/LICENSE)
+
+## Indicadores de qualidade
+
+[![Build Status](https://secure.travis-ci.org/gpupo/MarkethubBundle.png?branch=master)](http://travis-ci.org/gpupo/MarkethubBundle)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gpupo/MarkethubBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gpupo/MarkethubBundle/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f/small.png)](https://insight.sensiolabs.com/projects/e4572276-e535-43b3-88ff-0bbc3cdcff3f)
+
+## Agradecimentos
+
+* A todos os que [contribuiram com patchs](https://github.com/gpupo/MarkethubBundle/contributors) ou [fizeram sugestões importantes](https://github.com/gpupo/MarkethubBundle/issues)
+
+
+ _- [Gilmar Pupo](http://www.g1mr.com/)_
 
 ---
 
