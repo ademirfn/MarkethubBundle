@@ -1,0 +1,170 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/CnovaFactory.php' => 
+  array (
+    24 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    25 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    26 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    27 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    28 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    29 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    30 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    33 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3',
+    ),
+    34 => NULL,
+  ),
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/NetshoesFactory.php' => 
+  array (
+    24 => 
+    array (
+    ),
+    25 => 
+    array (
+    ),
+    26 => 
+    array (
+    ),
+    27 => 
+    array (
+    ),
+    28 => 
+    array (
+    ),
+    29 => 
+    array (
+    ),
+    30 => 
+    array (
+    ),
+    33 => 
+    array (
+    ),
+    34 => NULL,
+  ),
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/SubmarinoFactory.php' => 
+  array (
+    24 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #3',
+      3 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #4',
+    ),
+    25 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #3',
+      3 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #4',
+    ),
+    28 => 
+    array (
+      0 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #1',
+      1 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #2',
+      2 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #3',
+      3 => 'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #4',
+    ),
+    29 => NULL,
+  ),
+));
+$coverage->setTests(array (
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testFalhaAoAcessarFactoryInexistente' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #1' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #2' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\CnovaFactoryTest::testAcessoAServicosDeSdk with data set #3' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\NetshoesFactoryTest::testFalhaAoAcessarFactoryInexistente' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testFalhaAoAcessarFactoryInexistente' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #1' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #2' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #3' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'Gpupo\\Bundle\\MarkethubBundle\\Tests\\Factory\\SubmarinoFactoryTest::testAcessoAServicosDeSdk with data set #4' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/CnovaFactory.php' => true,
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/NetshoesFactory.php' => true,
+  '/Users/gilmar.pupo/workspace/Gpupo/group-ecommerce/MarkethubBundle/Factory/SubmarinoFactory.php' => true,
+));
+
+return $coverage;

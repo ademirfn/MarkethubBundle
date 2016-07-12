@@ -1,0 +1,15 @@
+Gpupo\Bundle\MarkethubBundle\Tests\Factory\CnovaFactory
+ [x] Falha ao acessar factory inexistente
+ [x] Acesso a servicos de sdk 
+ [x] Centraliza criacao de objetos 
+
+Gpupo\Bundle\MarkethubBundle\Tests\Factory\NetshoesFactory
+ [x] Falha ao acessar factory inexistente
+ [ ] Acesso a servicos de sdk 
+ [ ] Centraliza criacao de objetos 
+
+Gpupo\Bundle\MarkethubBundle\Tests\Factory\SubmarinoFactory
+ [x] Falha ao acessar factory inexistente
+ [x] Acesso a servicos de sdk 
+ [x] Centraliza criacao de objetos 
+
